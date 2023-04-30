@@ -53,8 +53,8 @@ const Welcome = () => {
           contentContainerStyle={{columnGap: SIZES.small}}
           horizontal
         />
-
       </View>
+      
     </View>
   )
 }
